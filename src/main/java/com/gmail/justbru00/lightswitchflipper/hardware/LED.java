@@ -1,5 +1,6 @@
-package com.gmail.justbru00.lightswitchflipper;
+package com.gmail.justbru00.lightswitchflipper.hardware;
 
+import com.gmail.justbru00.lightswitchflipper.LightSwitchFlipperMain;
 import com.pi4j.io.gpio.GpioController;
 import com.pi4j.io.gpio.GpioFactory;
 import com.pi4j.io.gpio.GpioPinDigitalOutput;

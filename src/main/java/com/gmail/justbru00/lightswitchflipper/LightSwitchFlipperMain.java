@@ -2,6 +2,8 @@ package com.gmail.justbru00.lightswitchflipper;
 
 import java.util.Scanner;
 
+import com.gmail.justbru00.lightswitchflipper.hardware.LED;
+import com.gmail.justbru00.lightswitchflipper.hardware.LEDState;
 import com.pi4j.io.gpio.RaspiPin;
 import com.pi4j.util.Console;
 

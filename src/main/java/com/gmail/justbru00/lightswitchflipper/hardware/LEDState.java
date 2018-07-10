@@ -1,4 +1,4 @@
-package com.gmail.justbru00.lightswitchflipper;
+package com.gmail.justbru00.lightswitchflipper.hardware;
 
 public enum LEDState {
 
